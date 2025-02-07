@@ -22,9 +22,52 @@ My ultimate goal is to empower organizations to achieve their objectives by prov
 
 # Recent Works 
 
-![image](https://github.com/user-attachments/assets/64859b86-7d5e-411a-9add-0b162bc9f171)
 ### Coffee Shop Analysis
+![image](https://github.com/user-attachments/assets/64859b86-7d5e-411a-9add-0b162bc9f171)  
+
 This Analysis Provides a detailed coffee shop sales data to understand revenue trends, customer behavior, and product performance.
+
+### Digital Marketing 
+![image](https://github.com/user-attachments/assets/3f93d62d-ec59-405f-8ea6-b0822e152935)
+
+Analyze digital marketing campaign performance to optimize ROI and allocate budgets effectively.
+
+### Amazon Sales Analysis
+![image](https://github.com/user-attachments/assets/d9839304-eb46-4487-ab51-e1793441b029)
+
+Analyze Amazon sales data to understand customer preferences, product ratings, and pricing trends.
+
+### Health Insurance Analysis With Affordable Care Act 
+![image](https://github.com/user-attachments/assets/25c4bd56-6362-4400-a005-cd0631793b44)
+
+Analyze the impact of the Affordable Care Act (ACA) on health insurance coverage and uninsured rates.
+
+### Green House Gas Emission
+![image](https://github.com/user-attachments/assets/300e7130-912d-4532-8682-9b36e8c0b9f9)
+
+Analyze CO2 greenhouse gas emissions across industries to identify high-emission sectors and recommend sustainability measures.
+
+### Supply Chain Analysis
+![image](https://github.com/user-attachments/assets/8476acc1-71e7-4c67-8698-1e75ec0bd7af)
+
+Analyze supply chain data for a Cosmetics, Haircare and Skincare brand to identify inefficiencies, optimize costs, and improve overall performance.
+
+### Airplane Crashes and Fatalities 
+![image](https://github.com/user-attachments/assets/00a12c2d-8cc5-4a49-9beb-112a65867c2d)
+
+Analyze global historical airplane crash data from 1908 - 2009 to identify trends in fatalities, causes, and regions with the highest fatalities.
+
+### Car Insurance Analysis 
+![image](https://github.com/user-attachments/assets/9fc56cdb-4f35-46f4-b1a8-9b8909aeae1a)
+
+Analyze car insurance claims data to identify risk factors, optimize pricing, and improve customer segmentation.
+
+### Women Clothing E-commerce Analysis
+![image](https://github.com/user-attachments/assets/a9c40162-71d2-4d7b-b69a-5189a0460aec)
+
+Analyze customer feedback and sales data for a women’s clothing e-commerce platform to improve customer satisfaction and product recommendations.
+
+
 
 
 
