@@ -81,13 +81,12 @@ Analyze hotel booking data to identify trends, cancellation rates, and customer 
 ## WORK WITH ME 
 Thank you for taking the time to explore my data analysis portfolio. If you have any questions or would like to discuss a potential project, please don't hesitate to get in touch. I look forward to hearing from you and potentially working together on your next data-driven project.
 
+Contact Me
+Feel free to reach out via  email or phone:
+ayodeleadebayo280@gmail.com
+<a href="ayodeleadebayo280@gmail.com">
++234 8118130084
+<a href="+234 8118130084">
 
-</head>
-<body>
-    <h1>Contact Me</h1>
-    <p>Feel free to reach out via LinkedIn, email, or phone:</p>
-    <ul>
         
-   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-<a href="https://www.linkedin.com/in/Oluwanifesimi Adebayo/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
-<a href="mailto:ayodeleadebayo280@gmail.com"><i class="fas fa-envelope"></i> Email Me</a>
+  
