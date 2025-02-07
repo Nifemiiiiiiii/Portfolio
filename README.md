@@ -78,6 +78,18 @@ Analyze investment preferences and behaviors to understand how different demogra
 Analyze hotel booking data to identify trends, cancellation rates, and customer preferences.
 
 
+## WORK WITH ME 
+Thank you for taking the time to explore my data analysis portfolio. If you have any questions or would like to discuss a potential project, please don't hesitate to get in touch. I look forward to hearing from you and potentially working together on your next data-driven project.
 
 
-
+</head>
+<body>
+    <h1>Contact Me</h1>
+    <p>Feel free to reach out via LinkedIn, email, or phone:</p>
+    <ul>
+        <li><a href="www.linkedin.com/in/oluwanifesimi-adebayo-9314b633b" target="_blank">LinkedIn</a></li>
+        <li><a href="mailto:your-ayodeleadebayo280@gmail.com">Email Me</a></li>
+        <li><a href="tel:+234 8118130084">Call Me</a></li>
+    </ul>
+</body>
+</html>
