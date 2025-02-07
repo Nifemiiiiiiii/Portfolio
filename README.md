@@ -1,17 +1,11 @@
-# ABOUT ME 
+# ABOUT ME                                                                   
 
 Hi, My name is Oluwanifesimi Adebayo 
 
 I’m a data-driven professional with a passion for turning raw data into meaningful insights that drive impactful decisions. With a strong background in biochemistry and a Data Analytics Certification from Quantum Analytics NG, I bring analytical rigor and problem-solving skills to every project I work on.
 
-
-My expertise lies in using tools like Excel, Power BI,Tableau  and SQL to design dashboards, create interactive reports, and uncover actionable insights. What excites me most about data analytics is the ability to identify patterns and tell compelling stories through data visualization. 
-
-
 My ultimate goal is to empower organizations to achieve their objectives by providing them with the insights they need to make confident, informed decisions.
 
-
-Feel free to explore my portfolio to see how I’ve turned numbers into narratives that matter.
 
 # SKILLS 
 
@@ -25,6 +19,8 @@ Feel free to explore my portfolio to see how I’ve turned numbers into narrativ
 * Team collaboration and adaptability
 * Data Cleaning
 * Report Generation
+
+# Recent Works 
 
 
 
