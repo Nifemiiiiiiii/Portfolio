@@ -87,9 +87,7 @@ Thank you for taking the time to explore my data analysis portfolio. If you have
     <h1>Contact Me</h1>
     <p>Feel free to reach out via LinkedIn, email, or phone:</p>
     <ul>
-        <li><a href="www.linkedin.com/in/oluwanifesimi-adebayo-9314b633b" target="_blank">LinkedIn</a></li>
-        <li><a href="mailto:your-ayodeleadebayo280@gmail.com">Email Me</a></li>
-        <li><a href="tel:+234 8118130084">Call Me</a></li>
-    </ul>
-</body>
-</html>
+        
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+<a href="https://www.linkedin.com/in/Oluwanifesimi Adebayo/" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
+<a href="mailto:ayodeleadebayo280@gmail.com"><i class="fas fa-envelope"></i> Email Me</a>
