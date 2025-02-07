@@ -22,6 +22,9 @@ My ultimate goal is to empower organizations to achieve their objectives by prov
 
 # Recent Works 
 
+![image](https://github.com/user-attachments/assets/64859b86-7d5e-411a-9add-0b162bc9f171)
+### Coffee Shop Analysis
+This Analysis Provides a detailed coffee shop sales data to understand revenue trends, customer behavior, and product performance.
 
 
 
