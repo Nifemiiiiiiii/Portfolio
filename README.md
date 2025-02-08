@@ -39,7 +39,8 @@ Analyze digital marketing campaign performance to optimize ROI and allocate budg
 ### Amazon Sales Analysis
 ![image](https://github.com/user-attachments/assets/d9839304-eb46-4487-ab51-e1793441b029)
 
-Analyze Amazon sales data to understand customer preferences, product ratings, and pricing trends.
+Analyze Amazon sales data to understand customer preferences, product ratings, and pricing trends. [[See More]](https://github.com/Nifemiiiiiiii/Amazon-Sales-/blob/main/README.md)
+
 
 ### Health Insurance Analysis With Affordable Care Act 
 ![image](https://github.com/user-attachments/assets/25c4bd56-6362-4400-a005-cd0631793b44)
