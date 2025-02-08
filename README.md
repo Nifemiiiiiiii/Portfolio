@@ -78,9 +78,9 @@ Analyze customer feedback and sales data for a women’s clothing e-commerce pla
 Analyze investment preferences and behaviors to understand how different demographics allocate their funds. [[See More]](https://github.com/Nifemiiiiiiii/Investment-Avenue/blob/main/README.md)
 
 ### Hotel Booking Trends Analysis
-![image](https://github.com/user-attachments/assets/b3f75259-6a6d-4d80-be36-5979dd915455)
+![image](https://github.com/user-attachments/assets/b3f75259-6a6d-4d80-be36-5979dd915455) 
 
-Analyze hotel booking data to identify trends, cancellation rates, and customer preferences.
+Analyze hotel booking data to identify trends, cancellation rates, and customer preferences. [[See More]](https://github.com/Nifemiiiiiiii/Hotel-Booking/blob/main/README.md)
 
 
 ## WORK WITH ME 
