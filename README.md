@@ -73,9 +73,9 @@ Analyze car insurance claims data to identify risk factors, optimize pricing, an
 Analyze customer feedback and sales data for a women’s clothing e-commerce platform to improve customer satisfaction and product recommendations.
 
 ### Investment Avenues
-![image](https://github.com/user-attachments/assets/b2862b94-6900-4012-9734-a7e04e387bba)
+![image](https://github.com/user-attachments/assets/b2862b94-6900-4012-9734-a7e04e387bba) 
 
-Analyze investment preferences and behaviors to understand how different demographics allocate their funds.
+Analyze investment preferences and behaviors to understand how different demographics allocate their funds. [[See More]](https://github.com/Nifemiiiiiiii/Investment-Avenue/blob/main/README.md)
 
 ### Hotel Booking Trends Analysis
 ![image](https://github.com/user-attachments/assets/b3f75259-6a6d-4d80-be36-5979dd915455)
