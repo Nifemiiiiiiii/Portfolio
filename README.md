@@ -27,15 +27,14 @@ My ultimate goal is to empower organizations to achieve their objectives by prov
 ![image](https://github.com/user-attachments/assets/64859b86-7d5e-411a-9add-0b162bc9f171) 
 
 
-[[See More]](https://github.com/Nifemiiiiiiii/Coffee-Shop-Analysis)
+This Analysis Provides a detailed coffee shop sales data to understand revenue trends, customer behavior, and product performance. [[See More]](https://github.com/Nifemiiiiiiii/Coffee-Shop-Analysis)
 
-
-This Analysis Provides a detailed coffee shop sales data to understand revenue trends, customer behavior, and product performance.
 
 ### Digital Marketing 
 ![image](https://github.com/user-attachments/assets/3f93d62d-ec59-405f-8ea6-b0822e152935)
 
-Analyze digital marketing campaign performance to optimize ROI and allocate budgets effectively.
+
+Analyze digital marketing campaign performance to optimize ROI and allocate budgets effectively. [[See More]](https://github.com/Nifemiiiiiiii/Digital-Marketing-Analysis/blob/main/README.md)
 
 ### Amazon Sales Analysis
 ![image](https://github.com/user-attachments/assets/d9839304-eb46-4487-ab51-e1793441b029)
