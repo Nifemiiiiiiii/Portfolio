@@ -25,7 +25,7 @@ My ultimate goal is to empower organizations to achieve their objectives by prov
 ### Coffee Shop Analysis
 ![image](https://github.com/user-attachments/assets/64859b86-7d5e-411a-9add-0b162bc9f171) 
 
-🔗 See More: [Project Details][https://github.com/user-attachments/assets/64859b86-7d5e-411a-9add-0b162bc9f171](README.md)
+🔗 See More: [Project Details][https://github.com/user-attachments/assets/64859b86-7d5e-411a-9add-0b162bc9f171(README.md)]
 
 
 
