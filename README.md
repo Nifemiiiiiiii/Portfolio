@@ -1,4 +1,4 @@
-# ABOUT ME                                                                   
+![image](https://github.com/user-attachments/assets/6bd36015-7053-4309-a591-c1b24c79b5a3)# ABOUT ME                                                                   
 
 Hi, My name is Oluwanifesimi Adebayo 
 
@@ -23,11 +23,13 @@ My ultimate goal is to empower organizations to achieve their objectives by prov
 # Recent Works 
 
 ### Coffee Shop Analysis
+
 ![image](https://github.com/user-attachments/assets/64859b86-7d5e-411a-9add-0b162bc9f171) 
 
-🔗 See More: [https://github.com/Nifemiiiiiiii/Coffee-Shop-Analysis]
 
-🔗 See More: [Project Details](https://github.com/Nifemiiiiiiii/coffee-shop-analysis/tree/main/https://github.com/Nifemiiiiiiii/Coffee-Shop-Analysis)
+[![See More](https://![image](https://github.com/user-attachments/assets/ecee97da-0780-4329-853d-6331381ed4d2)/button.png)](https://github.com/Nifemiiiiiiii/Coffee-Shop-Analysis)
+
+
 
 
 
