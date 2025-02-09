@@ -65,7 +65,7 @@ Analyze global historical airplane crash data from 1908 - 2009 to identify trend
 ### Car Insurance Analysis 
 ![image](https://github.com/user-attachments/assets/9fc56cdb-4f35-46f4-b1a8-9b8909aeae1a)
 
-Analyze car insurance claims data to identify risk factors, optimize pricing, and improve customer segmentation.
+Analyze car insurance claims data to identify risk factors, optimize pricing, and improve customer segmentation.[[See More]]( https://github.com/Nifemiiiiiiii/Car-Insurance/blob/main/README.md)
 
 ### Women Clothing E-commerce Analysis
 ![image](https://github.com/user-attachments/assets/a9c40162-71d2-4d7b-b69a-5189a0460aec)
