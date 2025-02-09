@@ -68,9 +68,10 @@ Analyze global historical airplane crash data from 1908 - 2009 to identify trend
 Analyze car insurance claims data to identify risk factors, optimize pricing, and improve customer segmentation.[[See More]]( https://github.com/Nifemiiiiiiii/Car-Insurance/blob/main/README.md)
 
 ### Women Clothing E-commerce Analysis
-![image](https://github.com/user-attachments/assets/a9c40162-71d2-4d7b-b69a-5189a0460aec) [[See More]]( https://github.com/Nifemiiiiiiii/Women-E-Commerce-Clothing-/blob/main/README.md)
+![image](https://github.com/user-attachments/assets/a9c40162-71d2-4d7b-b69a-5189a0460aec) 
 
-Analyze customer feedback and sales data for a women’s clothing e-commerce platform to improve customer satisfaction and product recommendations.
+Analyze customer feedback and sales data for a women’s clothing e-commerce platform to improve customer satisfaction and product recommendations.[[See More]]( https://github.com/Nifemiiiiiiii/Women-E-Commerce-Clothing-/blob/main/README.md)
+
 
 ### Investment Avenues
 ![image](https://github.com/user-attachments/assets/b2862b94-6900-4012-9734-a7e04e387bba) 
