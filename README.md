@@ -60,7 +60,7 @@ Analyze supply chain data for a Cosmetics, Haircare and Skincare brand to identi
 ### Airplane Crashes and Fatalities 
 ![image](https://github.com/user-attachments/assets/00a12c2d-8cc5-4a49-9beb-112a65867c2d)
 
-Analyze global historical airplane crash data from 1908 - 2009 to identify trends in fatalities, causes, and regions with the highest fatalities.
+Analyze global historical airplane crash data from 1908 - 2009 to identify trends in fatalities, causes, and regions with the highest fatalities.  [[See More]](https://github.com/Nifemiiiiiiii/Airplane-crashes/blob/main/README.md)
 
 ### Car Insurance Analysis 
 ![image](https://github.com/user-attachments/assets/9fc56cdb-4f35-46f4-b1a8-9b8909aeae1a)
