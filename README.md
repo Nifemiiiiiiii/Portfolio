@@ -52,11 +52,6 @@ Analyze the impact of the Affordable Care Act (ACA) on health insurance coverage
 
 Analyze CO2 greenhouse gas emissions across industries to identify high-emission sectors and recommend sustainability measures.  [[See More]](https://github.com/Nifemiiiiiiii/Green-House-Gas-Emission/blob/main/README.md)
 
-### Supply Chain Analysis
-![image](https://github.com/user-attachments/assets/8476acc1-71e7-4c67-8698-1e75ec0bd7af)
-
-Analyze supply chain data for a Cosmetics, Haircare and Skincare brand to identify inefficiencies, optimize costs, and improve overall performance.
-
 ### Airplane Crashes and Fatalities 
 ![image](https://github.com/user-attachments/assets/00a12c2d-8cc5-4a49-9beb-112a65867c2d)
 
