@@ -1,4 +1,7 @@
-# ABOUT ME                                                                  
+# ABOUT ME   
+
+![image](https://github.com/user-attachments/assets/a8cfdfef-2ab4-4b8e-b26b-aff582cc8c8b)
+
 
 Hi, My name is Oluwanifesimi Adebayo 
 
