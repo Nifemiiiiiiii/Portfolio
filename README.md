@@ -87,9 +87,17 @@ Thank you for taking the time to explore my data analysis portfolio. If you have
 
 ## Contact Me
 
-* LinkedIn: Oluwanifesimi Adebayo
-* Email: ayodeleadebayo280@gmail.com
-* Phone: +234 8118130084
+<div class="contact-links">
+    <a href="https://www.linkedin.com/in/oluwanifesimi-adebayo-9314b633b" target="_blank">
+        <img src="C:\Users\Admin\Downloads\icons8-linkedin-48.png
+" alt="LinkedIn" width="30">
+    </a>
+    <a href="mailto:ayodeleadebayo280@gmail.com">
+        <img src="!C:\Users\Admin\Downloads\icons8-gmail-48.png
+" alt="Email" width="30">
+    </a>
+</div>
+
 
 
 
