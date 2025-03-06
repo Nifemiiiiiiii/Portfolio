@@ -5,7 +5,7 @@
 
 Hi, My name is Oluwanifesimi Adebayo 
 
-I’m a data-driven professional with a passion for turning raw data into meaningful insights that drive impactful decisions. With a strong background in biochemistry and a Data Analytics Certification from Quantum Analytics NG, I bring analytical rigor and problem-solving skills to every project I work on.
+I’m a data-driven professional with a passion for turning raw data into meaningful insights that drive impactful decisions. I enjoy solving problems, creating engaging visualizations, and continuously learning new ways to make data more impactful.  I bring analytical rigor and problem-solving skills to every project I work on.
 
 My ultimate goal is to empower organizations to achieve their objectives by providing them with the insights they need to make confident, informed decisions.
 
